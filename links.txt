@@ -1,5 +1,2 @@
-1.React Todo app link:- https://todo-app-fs-de3a0.web.app/
-2.Ig-reels-clone build using react link:- https://ig-reels-clone-48a54.web.app/
-3.Youtube clone build using react link:- https://clone-37bea.web.app/
-4.Google clone build using react link:- https://clone-859df.web.app/
-5.Tinder clone build using react link:- https://tinder-clone-ee343.web.app/
+1.Web Hero landing page preview link:- https://sharifuzzaman24.github.io/webHero/
+
